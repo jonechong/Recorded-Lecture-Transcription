@@ -1,0 +1,9 @@
+[submodule "Recorded-Lecture-Transcription-STT"]
+	path = Recorded-Lecture-Transcription-STT
+	url = https://github.com/jonechong/Recorded-Lecture-Transcription-STT.git
+[submodule "Recorded-Lecture-Transcription-App"]
+	path = Recorded-Lecture-Transcription-App
+	url = https://github.com/jonechong/Recorded-Lecture-Transcription-App.git
+[submodule "Recorded-Lecture-Transcription-Punctuation-Restoration"]
+	path = Recorded-Lecture-Transcription-Punctuation-Restoration
+	url = https://github.com/jonechong/Recorded-Lecture-Transcription-Punctuation-Restoration.git
