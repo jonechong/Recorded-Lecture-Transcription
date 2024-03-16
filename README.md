@@ -17,6 +17,6 @@ Our primary dataset will be the Common Voice dataset by Mozilla. We will focus o
 There are 3 main submodules in this repository:
 1) A monolithic GUI submodule
 2) A Speech-To-Text model development submodule
-3) A punctuation & auto-capitalization model development submodule
+3) A punctuation restoration model development submodule
 
 The details for each development will be in the readme of the submodules
