@@ -14,8 +14,9 @@ Secondary Output: Primary output, but with punctuations
 Our primary dataset will be the Common Voice dataset by Mozilla. We will focus only on the English Language.
 
 ## Content
-There are 2 main aspects in this repository:
+There are 3 main submodules in this repository:
 1) A monolithic GUI submodule
-2) A model development submodule where we try different architectures and hyperparameters for training the model
+2) A Speech-To-Text model development submodule
+3) A punctuation & auto-capitalization model development submodule
 
-The details for each implementation will be in the readme of the submodules
+The details for each development will be in the readme of the submodules
